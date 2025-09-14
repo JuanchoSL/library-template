@@ -1,9 +1,9 @@
 {
-    "name": "juanchosl/{}",
+    "name": "juanchosl/Library",
     "description": "{}",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/JuanchoSL/{}",
+    "homepage": "https://github.com/JuanchoSL/Library",
     "keywords": [
         "log",
         "debug"
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "JuanchoSL\\{}\\": "src/"
+            "JuanchoSL\\Library\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "JuanchoSL\\{}\\Tests\\": "tests/"
+            "JuanchoSL\\Library\\Tests\\": "tests/"
         }
     },
     "scripts": {
